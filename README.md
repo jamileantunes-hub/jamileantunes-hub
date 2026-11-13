@@ -13,5 +13,7 @@ Olá, eu sou a Jamile
 ​Projeto em Destaque:
 ​Protótipo Web - Salao de Beleza (Figma): Levantamento de requisitos junto ao cliente, arquitetura de informação e prototipagem de interface focada na experiência do usuário.
 ​Como entrar em contato:
-​LinkedIn: https://www.linkedin.com/in/jamile-antunes-986105346?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+
+​LinkedIn: https://www.linkedin.com/in/jamile-antunes-986105346?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+
 ​E-mail: jamileantuness@gmail.com
